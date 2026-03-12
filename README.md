@@ -156,3 +156,11 @@ Hosting | Render |
 # Author
 
 Yoshimu U. Nats
+
+## Special Thanks
+
+- y-iwashi
+  - 開発相談 / レビュー協力
+
+- snrnapa
+  - 開発相談
