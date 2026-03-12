@@ -115,11 +115,3 @@ with connection.cursor() as cursor:
         "SELECT setval(pg_get_serial_sequence('transactions_transaction','id'), 1, false);"
     )
 ```
-
-<br>
-
-## メモジェネレータ
-
-```python
-python tools/memo_gen.py
-```
